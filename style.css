@@ -23,7 +23,7 @@ p{
     margin-top: 35px;
 }
 .top{
-    background-image: url("images/top.png");
+    background-image: url("Images/top.png");
     background-repeat: no-repeat;
 }
 section{
@@ -39,7 +39,7 @@ section{
     color: black;
 }
 .bg{
-    background-image: url("images/bg.png");
+    background-image: url("Images/bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -52,7 +52,7 @@ section{
     height: 60%;
 }
 .high{
-    background-image: url(images/exp.png);
+    background-image: url(Images/exp.png);
     background-repeat: no-repeat;
     background-position: 0% 28%;
 
